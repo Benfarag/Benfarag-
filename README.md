@@ -22,12 +22,12 @@ I also have **basic experience with Godot Engine** (2D) and I'm able to develop 
 
 ## 📂 My Projects
 
-*(Add your web projects here later when you upload them)*
+*Soon...*
 
 ## 📫 Contact Me
 
-* 📧 Email: *(Add your email)*
-* 💬 Discord: *(Add your Discord)*
+* 📧 Email: *(benfarag46728@gmail.com)*
+
 
 ## ⭐ Support
 
