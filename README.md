@@ -4,7 +4,7 @@
 
 I'm a **Web Developer** at the beginning of my journey — currently learning and improving my skills in **HTML**, **CSS**, **JavaScript**, and building responsive, clean, and modern websites.
 
-I also have **basic experience with Godot Engine** (2D) and I'm able to develop my skills in it anytime, but right now my main focus is **web development**.
+I also have **basic experience with Godot Ene** (2D) and I'm able to develop my skills in it anytime, but right now my main focus is **web development**.
 
 ## 🧰 Technologies & Tools
 
@@ -22,12 +22,11 @@ I also have **basic experience with Godot Engine** (2D) and I'm able to develop 
 
 ## 📂 My Projects
 
-*Soon...*
+Soon... 
 
 ## 📫 Contact Me
 
-* 📧 Email: *(benfarag46728@gmail.com)*
-
+* 📧 Email: *(****[benfarag46728@gmail.com](mailto:benfarag46728@gmail.com)****)*
 
 ## ⭐ Support
 
