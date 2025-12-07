@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Farag 👋
+# Hi, I'm benfarag 👋
 
 ## 🌍 About Me
 
